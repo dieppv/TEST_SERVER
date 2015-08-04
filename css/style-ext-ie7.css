@@ -1,0 +1,6 @@
+/*-----------------------------------------------------------
+Styles of IMSGridView (Override theme of Jquery UI)
+------------------------------------------------------------*/
+.paging_full_numbers .fg-button { padding: 0px 0; }
+.app_popup_product {width:326px}
+.tblflow{overflow-x:hidden}
